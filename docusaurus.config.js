@@ -79,7 +79,7 @@ const config = {
           // },
           // { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/Taskon-xyz/taskon-doc/docs",
+            href: "https://github.com/Taskon-xyz/taskon-doc/tree/main/docs",
             label: "GitHub",
             position: "right",
           },
