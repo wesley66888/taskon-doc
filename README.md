@@ -5,9 +5,8 @@ taskon docs
 edit on docs folder
 
 ```
-eg:
-  $ intro.md   ->   /intro
-  $ folder/mydoc.md  ->   /folder/mydoc
+ intro.md   ->   /intro
+ example-folder/congratulations.md  ->   /example-folder/congratulations
 ```
 
 ### Installation
