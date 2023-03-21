@@ -4,9 +4,11 @@ taskon docs
 # Usage
 edit on docs folder
 
+```
 eg:
   $ intro.md   ->   /intro
   $ folder/mydoc.md  ->   /folder/mydoc
+```
 
 ### Installation
 
