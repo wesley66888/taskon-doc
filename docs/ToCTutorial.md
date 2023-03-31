@@ -6,7 +6,7 @@
 
 [CAP on TaskOn](TOC%20Tutorial/CAP%20on%20TaskOn%205e22836b8ac94c229b7e50ca93aa1310.md)
 
-[How to Bind Social Account](TOC%20Tutorial/How%20to%20Bind%20Social%20Account.md)
+[How to Bind Social Account](TOC%20Tutorial/How%20to%20Bind%20Social%20Account%20cd6f50bf388a4453b9c65fe31e92aa8d.md)
 
 [Edit Your Profile](TOC%20Tutorial/Edit%20Your%20Profile%205f75587157fa4c199db7e6909b595e2c.md)
 
