@@ -1,8 +1,8 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require("prism-react-renderer/themes/github");
+const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -67,7 +67,7 @@ const config = {
         logo: {
           alt: "Taskon Docs logo",
           src: "img/favicon.png",
-          href: "/docs/intro",
+          href: "/docs/To%20C%20Tutorial/Intro",
         },
         items: [
           // {
@@ -92,7 +92,7 @@ const config = {
             items: [
               {
                 label: "Tutorial",
-                to: "/docs/intro",
+                to: "/docs/To%20C%20Tutorial/Intro",
               },
             ],
           },
